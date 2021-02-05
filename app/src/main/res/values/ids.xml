@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="resultField" type="id" />
+    <item name="operationField" type="id" />
+    <item name="numberField" type="id" />
+    <item name="firstButtonPanel" type="id" />
+    <item name="secondButtonPanel" type="id" />
+    <item name="thirdButtonPanel" type="id" />
+    <item name="forthButtonPanel" type="id" />
+</resources>
